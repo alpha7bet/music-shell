@@ -1,6 +1,6 @@
 {
   "name": "@alpha7bet/music-shell",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "Description for music-shell",
   "main": "src/index.js",
   "scripts": {
